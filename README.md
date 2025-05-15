@@ -9,3 +9,8 @@ Missing Value:
 Duplicate rows:
 * There are 3 duplicate values found and removed.
 ## Descriptive Statistics
+Insight 1:
+Most bird species in the dataset have relatively low observation counts, with the average being around (your calculated mean). This suggests that while a few species are frequently observed, the majority are likely less common or harder to spot.
+
+Insight 2:
+The large difference between the minimum and maximum observations indicates a high level of variation in species visibility or reporting. Conservation efforts might focus on species with consistently low observation numbers to ensure they are not at risk.
